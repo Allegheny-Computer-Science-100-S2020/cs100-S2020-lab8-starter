@@ -1,4 +1,4 @@
-# cs100-S2020-lab8-solution
+# cs100-S2020-lab8-starter
 
 ## Table of Contents
 
@@ -16,21 +16,22 @@
 * [Reporting Problems](#reporting-problems)
 * [Receiving Assistance](#receiving-assistance)
 * [Project Assessment](#project-assessment)
+* [Project Feedback](#project-feedback)
 
 ## Introduction
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/) and
 [GatorGrader](https://github.com/GatorEducator/gatorgrader/), this repository
-contains the solution for a laboratory assignment in an introductory computer
+contains the starter for a laboratory assignment in an introductory computer
 science class that uses the Java programming language. The Travis CI builds for
-this repository will pass, as evidenced by a green &#x2714; instead of a red
-&#x2717; appearing in the commit logs. An instructor would use this repository
-to create a "starter" repository with purposefully omitted features that a
-student would then need to add in order to achieve the stated learning
+this repository will not pass, as evidenced by a red &#x2717; instead of a
+green &#x2714; appearing in the commit logs. An instructor would use this
+repository to create a "starter" repository with purposefully omitted features
+that a student would then need to add in order to achieve the stated learning
 objectives. Please bear in mind that much of the content in this document is
-written in its current form under the assumption that it will also accompany the
-"starter" repository that an instructor shares with a student through the use of
-[GitHub Classroom](https://classroom.github.com/).
+written in its current form under the assumption that it will also accompany
+the "starter" repository that an instructor shares with a student through the
+use of [GitHub Classroom](https://classroom.github.com/).
 
 This assignment invites a programmer to test and improve a Java program, called
 `CommandLineCalculator`, that will produce textual output demonstrating the
